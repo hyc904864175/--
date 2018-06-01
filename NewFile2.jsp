@@ -135,7 +135,7 @@ padding:15px 10px;
 </li><br>
 <li>
 聪明的你请点击<a href="guanli">这里</a></li>
-<br><br><br><br><br><br><br><br><br><br>
+<li>或者点<a href="FindUsers">介里</a></li>
 </div>
 
 <div class="column middle">
